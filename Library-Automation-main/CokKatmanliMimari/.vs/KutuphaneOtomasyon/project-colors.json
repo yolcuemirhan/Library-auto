@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc3f0bde-c083-4716-8588-4542dc1d8d99": {
+      "ProjectGuid": "cc3f0bde-c083-4716-8588-4542dc1d8d99",
+      "DisplayName": "CokKatmanliMimari.PL",
+      "ColorIndex": 0
+    },
+    "3da90b02-957b-44c9-8849-772634b8c2b0": {
+      "ProjectGuid": "3da90b02-957b-44c9-8849-772634b8c2b0",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "2fd1ffbb-c126-4ed2-8b21-7c0f2aebcad8": {
+      "ProjectGuid": "2fd1ffbb-c126-4ed2-8b21-7c0f2aebcad8",
+      "DisplayName": "Entity",
+      "ColorIndex": 2
+    },
+    "db768c09-2b13-4f5a-a527-22b2fc13bd00": {
+      "ProjectGuid": "db768c09-2b13-4f5a-a527-22b2fc13bd00",
+      "DisplayName": "BL",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

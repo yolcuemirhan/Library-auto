@@ -1,0 +1,52 @@
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.exe.config
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.exe.manifest
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.application
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.exe
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.pdb
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\BL.dll
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\Entity.dll
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\System.Data.OleDb.dll
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ZedGraph.dll
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\DAL.dll
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\BL.pdb
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\Entity.pdb
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\System.Data.OleDb.xml
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ZedGraph.xml
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\DAL.pdb
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\DAL.dll.config
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\KutuphaneOtomasyon.PL.csproj.AssemblyReference.cache
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\KutuphaneOtomasyon.PL.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.BaslangicForm.resources
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.GorevliGecisForm.resources
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.GorevliGirisForm.resources
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.GrafikForm.resources
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.KitapArama.resources
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.KitapIslemForm.resources
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.OgrenciGirisForm.resources
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.OgrenciForm.resources
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.OgrenciIslemForm.resources
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.Properties.Resources.resources
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\KutuphaneOtomasyon.PL.csproj.GenerateResource.cache
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\KutuphaneOtomasyon.PL.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.exe.manifest
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.application
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\KutuphaneOtomasyon.PL.csproj.CopyComplete
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.exe
+C:\Users\ozgur\Desktop\Kutuphane_Otomasyonu-main - Kopya\Kutuphane_Otomasyonu-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.pdb
+C:\Users\emirh\OneDrive\Masaüstü\Library-Automation-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\KutuphaneOtomasyon.PL.csproj.AssemblyReference.cache
+C:\Users\emirh\OneDrive\Masaüstü\Library-Automation-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\KutuphaneOtomasyon.PL.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirh\OneDrive\Masaüstü\Library-Automation-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.exe
+C:\Users\emirh\OneDrive\Masaüstü\Library-Automation-main\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.pdb
